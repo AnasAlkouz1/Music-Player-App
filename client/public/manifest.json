@@ -1,0 +1,33 @@
+{
+
+  "name": "Music Player",
+  "short_name": "Music Player",
+  "icons": [
+
+    {
+      "src": "music-note-beamed_ico_v0.ico",
+      "sizes": "32x32 16x16",
+      "type": "image/x-icon",
+      "purpose": "maskable"
+    },
+    {
+      "src": "music-note-beamed.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "music-note-beamed_3.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+
+
+  ],
+  
+  "theme_color": "#d6e5fa",
+  "background_color": "#d6e5fa",
+  "display": "minimal-ui",
+  "scope": "/",
+  "start_url": "/"
+
+}

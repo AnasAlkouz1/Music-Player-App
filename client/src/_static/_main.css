@@ -1,0 +1,165 @@
+
+
+
+._nav_link{
+color: black;
+width: 50px;
+height: 50px;
+border-radius: 50rem;
+background-color: transparent;
+transition: all 0.3s ease;
+}
+._nav_link:hover{
+color: black;
+background-color: rgb(226,140,151,0.2);
+}
+._Active{
+background-color: rgb(226,140,151,0.2);
+}
+._d_m_66322{
+margin-top: -1.5rem;
+}
+._icon_search_ii{
+font-size: 1.5em;
+position: relative;
+top: 2rem;
+left: 2rem;
+}
+
+._d_f_c_D_4863217{
+width: 100%;
+background-color: #ffff;
+height: 100px;
+position: fixed;
+right: 0;
+bottom: 0;
+left: 0;
+z-index: 1030;
+display: flex;
+justify-content: space-between;
+box-shadow: 0 0 3px 0 rgb(0 0 0 / 20%);
+}
+.p_t{
+font-size: 14px;
+font-family: 300;
+}
+.p_t_g{
+font-size: 22px;
+}
+
+.p_t_g_t_f_{
+font-size: 22px;
+margin-top: 3rem;
+}
+
+
+._div_h_s_i_r{
+display: flex;
+justify-content: space-between;
+margin-top: 1rem;
+}
+
+._div_h_s_i_rT{
+display: flex;
+justify-content: space-between;
+margin-top: 2rem;
+border-bottom: 2px solid #d6e5fa;
+padding-bottom: 2rem;
+}
+
+._div_s_info_v0,._div_s_info_v1{
+display: flex;
+align-items: center;
+}
+._img_s__i_g{
+    width: 50px;
+    border-radius: 50rem;
+    object-fit: cover;
+    height: 50px;
+    margin-left: -2rem;
+}
+._g_n_f_f_n{
+    background-color: #d6e5fa;
+    height: 50px;
+    padding: 12px;
+    border-radius: 5px;
+    margin-top: 2rem;
+    font-size: 16px;
+}
+
+._d_d_u_i_s_n75332{
+margin-left: 1rem;
+}
+._d_f_d_i_f{
+margin-left: 1rem;
+font-size: 14px;
+color: cornflowerblue;
+}
+._d_h_f_i_e{
+width: 35px;
+height: 35px;
+border-radius: 50rem;
+margin-right: 1rem;
+transition: all 0.3s ease;
+cursor: pointer;
+}
+._d_h_f_i_e:hover{
+background-color: rgb(226,140,151,0.8);
+}
+._iMy_F_iS{
+background-color: rgb(226,140,151,0.8);
+}
+
+
+._d_h_f_i___f_t_or_p{
+width: 35px;
+height: 35px;
+border-radius: 50rem;
+margin-right: 1rem;
+transition: all 0.3s ease;
+cursor: pointer;
+}
+._i_s_v_532552{
+background-color: #d6e5fa;
+}
+
+._d_h_f_i___f_t_or_p:hover{
+background-color: #d6e5fa;
+}
+
+
+
+
+._Icon_H_F_i{
+margin-left: 6px;
+font-size: 1.5em;
+margin-top: 6px;
+}
+
+._g_n_f{
+    margin-top: 4rem;
+    font-size: 18px;
+    }
+    ._g_n_f > span{
+    color: #E28c97;
+    }
+
+@media(max-width:576px){
+._div__l_c{
+width: 100%;
+}
+._div__r_c{
+display: none;
+}
+
+._m_i_d_l{
+margin-inline: 1rem;
+}
+.rhap_container{
+width:80% !important;
+}
+._img_s_i_p{
+margin-left: 0rem !important;
+}
+
+}

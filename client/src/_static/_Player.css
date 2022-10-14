@@ -1,0 +1,79 @@
+
+
+:root{
+--color_p:#ededed;
+--color_p_v_s:#E28c97;
+--color_r_vol:#d6e5fa;
+--color_m_v:#dedede;
+}
+
+.rhap_progress-bar-show-download{
+background-color: aliceblue!important;
+}
+.rhap_progress-indicator{
+background: var(--color_r_vol) !important;
+}
+.rhap_time {
+color:  var(--color_m_v)  !important;
+}
+.rhap_repeat-button{
+display: none !important;
+}
+.rhap_container svg{
+color:  black  !important;
+}
+.rhap_volume-bar{
+background: var(--color_r_vol)  !important;
+}
+.rhap_volume-indicator{
+background: var(--color_p) !important;
+}
+.rhap_container{
+width: 90%;
+box-shadow: none !important;
+}
+
+._img_s_i_p{
+
+margin-left: 1.5rem;
+width: 80px;
+height: 80px;
+object-fit: cover;
+border-radius: 50rem;
+margin-top: 10px;
+}
+
+.img_animation{
+-webkit-animation:image_spin 8s linear infinite;
+-moz-animation:image_spin 8s linear infinite;
+animation:image_spin 8s linear infinite;
+}
+
+@-moz-keyframes image_spin { 
+100% { -moz-transform: rotate(360deg); } 
+}
+@-webkit-keyframes image_spin { 
+100% { -webkit-transform: rotate(360deg); } 
+}
+@keyframes image_spin { 
+100% { 
+-webkit-transform: rotate(360deg); 
+transform:rotate(360deg); 
+} 
+}
+
+
+
+._d_v_h_r_r7434753{
+width: 10%;
+z-index: 99999;
+}
+
+
+.rhap_progress-filled {
+background-color: var(--color_r_vol) !important;
+}
+
+.rhap_download-progress {
+    background-color: transparent !important;
+}
